@@ -1,0 +1,14 @@
+=== Evidence Acquisition & Baseline Verification ===
+Evidence Image: evidence001.E01
+Total Sectors:  15642624
+Sector Size:    512 bytes
+
+Acquisition Hashes (FTK Imager):
+- MD5:  60776ebb25da23f964431862f5d8dfb8
+- SHA1: 11face8155a7b8e682d6eec011395bea79f3ddc
+
+Verification Points:
+- ewfexport Verification:  MATCH (60776ebb25da23f964431862f5d8dfb8)
+- bulk_extractor Disk MD5: MATCH (60776ebb25da23f964431862f5d8dfb8)
+- Bad Sectors Encountered: None (0)
+Status: Chain of Custody intact; baseline hash verified.

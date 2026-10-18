@@ -1,0 +1,20 @@
+# Forensic disk images & raw evidence (exceeds GitHub file limits)
+*.E01
+*.raw
+*.dd
+*.img
+*.vmdk
+*.vmem
+
+# Large carving directories and case dumps
+recup_dir/
+scalpel_output/
+bulk_output/
+*.pcap
+*.pcapng
+
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+__pycache__/
+.vscode/
